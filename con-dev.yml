@@ -1,1 +1,3 @@
-con-dev.yml   success
+
+config:
+  info: "con-dev.yml   success   version=1"
